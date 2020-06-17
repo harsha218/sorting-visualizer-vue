@@ -4,7 +4,7 @@ Hi fellow geeks, as the name suggests this a sorting-visualizer which helps us u
 
 You can find his Visualizer at https://clementmihailescu.github.io/Sorting-Visualizer
 
-My visualizer is not an optomized, bug free one. But it serves the purpose. Feel free to correct my code.
+My visualizer is not an optimized, bug free one. But it serves the purpose. Feel free to correct my code.
 
 ## Project setup
 ```
